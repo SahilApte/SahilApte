@@ -1,13 +1,13 @@
-<h1 align="left"> Hey there!,👋</h1>
-<h3 align="center">My name is Sahil.I am currently pursuing my Bachelor of Engineering in computer science @ NGIT hyd</h3>
+<h1 align="center"> Hey there! 👋 !!<br></h1>
+<h2 align="center">My name is Sahil and I am a reisdent of Hyderabad currently pursuing my Bachelor of Engineering in Computer Science @ NGIT Hyderabad. </h2>
 
-- 🔭 I’m interested in **OS,Custom roms,I love linux**
+- 🔭 I’m interested in **OS,Custom roms,linux**
 
-- 🌱 I’m currently learning **Linux,DSA**
+- 🌱 I’m currently working on **Linux,DSA in Python**
 
-- 📫 How to reach me **SahilApte@protonmail.ch**
+- 📫 Get in touch with me on **SahilApte@protonmail.ch**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My profiles:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sahil-apte-a9161a205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sahil Apte" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ZigXag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ZigXag" height="30" width="40" /></a>
