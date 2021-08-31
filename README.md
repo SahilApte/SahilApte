@@ -1,9 +1,9 @@
-<h1 align="center"> Hey there! 👋 !!<br></h1>
-<h2 align="center">My name is Sahil and I am a reisdent of Hyderabad currently pursuing my Bachelor of Engineering in Computer Science @ NGIT Hyderabad. </h2>
+<h1 align="center"> Hey there! 👋☺️ !!<br></h1>
+<h2 align="center">My name is Sahil and I am a resident of Hyderabad currently pursuing my Bachelor of Engineering in Computer Science @ NGIT Hyderabad.</h2>
 
-- 🔭 I’m interested in **OS,Custom roms,linux**
+- 🔭 I’m interested in **OS,Custom roms,Linux,Python,Stock Market**
 
-- 🌱 I’m currently working on **Linux,DSA in Python**
+- 🌱 I’m currently working on **DSA in Python,Problem solving in Python**
 
 - 📫 Get in touch with me on **SahilApte@protonmail.ch**
 
