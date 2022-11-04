@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="wav_hello" width="40" height="40"/>:smile: Hi, there</h1>
 <h2 align="center">My name is Sahil Apte and I am a resident of Hyderabad currently pursuing my Bachelor of Engineering in Computer Science @ NGIT Hyderabad.</h2>
 
-- 🌱 I’m currently learning **Python libraries used for Data Science,Java Nptel Course(ongoing)**
+- 🌱 I’m currently learning **Python libraries used for Data Science,AutoSurgery Project(ongoing)**
 - 🔭 I’m interested in **OS,Custom roms,Linux,Python**
 - 📫 Mail me on **sahilapte14@gmail.com**
 
