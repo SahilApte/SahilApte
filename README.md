@@ -11,7 +11,7 @@ I'm a recent graduate with a Bachelor of Engineering in Computer Science from NG
 - 🔭 Fascinated by **Operating Systems, Custom ROMs**.
 - 💻 Proficient in **Python** and **Linux**.
 - 🌐 Check out my personal portfolio website: [https://sahilapte.vercel.app](https://sahilapte.vercel.app)
-- 📫 Feel free to reach out via email at **sahilapte14@gmail.com**.
+- 📫 Feel free to reach out via email at **sahilapte.work@gmail.com**.
 
 <h3 align="left">Work Experience</h3>
 
