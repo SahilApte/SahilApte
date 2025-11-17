@@ -10,7 +10,7 @@ I'm a recent graduate with a Bachelor of Engineering in Computer Science from NG
 - 🏢 Currently working as a **Software QA Engineer** at <a href="https://www.realpage.com/" target="_blank"><img src="https://s.realpage.com/dist/site/static/logos/rp-logo-2022.svg" alt="Realpage" width="100" height="20" align="center"/></a>
 - 🔭 Fascinated by **Operating Systems, Custom ROMs**.
 - 💻 Proficient in **Python** and **Linux**.
-- 🌐 Check out my personal portfolio website: [https://sahilapte.vercel.app](https://sahilapte.vercel.app)
+- 🌐 Check out my personal portfolio website: [https://sahil-apte.vercel.app/](https://sahil-apte.vercel.app/)
 - 📫 Feel free to reach out via email at **sahilapte.work@gmail.com**.
 
 <h3 align="left">Work Experience</h3>
