@@ -130,11 +130,14 @@ Key Highlights:
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilApte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sahil's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilApte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SahilApte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sahil's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SahilApte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SahilApte&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="97%" />
 </p>
 
 ---
