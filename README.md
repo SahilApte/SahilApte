@@ -35,15 +35,16 @@ Key Highlights:
   - Boosted automation suite pass rate by +55% through root cause analysis & script debugging
   - Integrated CI/CD quality gates with GitHub Actions & Azure DevOps to block unstable code merges
   - Built autonomous multi-agent QA platform for the entire STLC (Grooming → Java POM → Self-Healing)
+  - Competed in BrowserStack Testathon 2025 (TechWarriors) for high-velocity cloud test automation
 ```
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Projects & Competitions
 
 <table>
   <tr>
-    <td width="55%">
+    <td width="50%">
       <h3>🤖 <a href="https://github.com/SahilApte/qa-lifecycle-agents">QA Lifecycle Agents Platform</a></h3>
       <p>An enterprise-grade, autonomous <strong>10-Agent AI Testing Framework</strong> orchestrating the full Software Testing Lifecycle (STLC):</p>
       <ul>
@@ -60,21 +61,28 @@ Key Highlights:
         <img src="https://img.shields.io/badge/Azure%20DevOps-TFS-blue?style=flat-square&logo=azuredevops" />
       </p>
     </td>
-    <td width="45%">
-      <h3>🔬 Other Technical Projects</h3>
+    <td width="50%">
+      <h3>🏆 <a href="https://github.com/SahilApte/BrowserStack_Testathon2025_TechWarriors">BrowserStack Testathon 2025</a></h3>
+      <p><strong>Team TechWarriors</strong> — High-intensity testathon competition focused on high-coverage cross-browser automation and defect discovery:</p>
       <ul>
-        <li>
-          <strong>Auto Surgery — Surgical Tools Detection</strong><br/>
-          Deep Learning computer vision model detecting surgical tools & surgical steps from live video feeds.
-        </li>
-        <li>
-          <strong>Gemstone Price Prediction</strong><br/>
-          Machine Learning regression pipeline with Python, Scikit-learn, and Flask backend.
-        </li>
+        <li>⚡ <strong>Cross-Browser & Real Mobile Device Automation</strong> on BrowserStack Cloud Infrastructure</li>
+        <li>🎯 <strong>Exploratory & Edge-Case Bug Hunting</strong> across responsive web application viewports</li>
+        <li>⏱️ <strong>High-velocity test script execution</strong> and defect triage under competition timeframes</li>
       </ul>
+      <p>
+        <img src="https://img.shields.io/badge/BrowserStack-Testathon%202025-0066FF?style=flat-square&logo=browserstack" />
+        <img src="https://img.shields.io/badge/Team-TechWarriors-red?style=flat-square" />
+      </p>
     </td>
   </tr>
 </table>
+
+<details>
+<summary><strong>🔬 Other Engineering Projects (Deep Learning & Machine Learning)</strong></summary>
+
+- **Auto Surgery — Surgical Tools Detection**: Deep Learning computer vision model detecting surgical tools & surgical steps from live video feeds.
+- **Gemstone Price Prediction**: Machine Learning regression pipeline with Python, Scikit-learn, and Flask backend.
+</details>
 
 ---
 
@@ -100,7 +108,7 @@ Key Highlights:
 <table>
   <tr>
     <td width="30%"><strong>Test Automation & QA</strong></td>
-    <td>Selenium WebDriver, Playwright, TestNG, Postman, REST API Testing, UI Automation, Functional & Regression Testing, Smoke/Sanity Suites</td>
+    <td>Selenium WebDriver, Playwright, TestNG, BrowserStack, Postman, REST API Testing, UI Automation, Functional & Regression Testing, Smoke/Sanity Suites</td>
   </tr>
   <tr>
     <td><strong>AI-Augmented Testing</strong></td>
@@ -116,7 +124,7 @@ Key Highlights:
   </tr>
   <tr>
     <td><strong>Methodologies & Patterns</strong></td>
-    <td>Page Object Model (POM), Hybrid Frameworks, Shift-Left Testing, Root Cause Analysis (RCA), Agile / Scrum</td>
+    <td>Page Object Model (POM), Hybrid Frameworks, Shift-Left Testing, Root Cause Analysis (RCA), Cross-Browser Testing, Agile / Scrum</td>
   </tr>
 </table>
 
