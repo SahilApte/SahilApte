@@ -1,85 +1,155 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilapte&label=Profile%20views&color=0e75b6&style=flat" alt="sahilapte" /> </p>
-<h1 align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="wav_hello" width="40" height="40"/> Hi, there!</h1>
-<h2 align="center">I'm Sahil Apte, a passionate and curious Computer Science graduate based in the vibrant city of Hyderabad.</h2>
-
-<h3 align="left">About Me </h3>
-<p align="left">
-I'm a recent graduate with a Bachelor of Engineering in Computer Science from NGIT Hyderabad, eager to apply my knowledge and skills to real-world challenges. My academic journey has equipped me with a solid foundation in various programming languages and technologies. I have a strong interest in the inner workings of operating systems, the flexibility of custom ROMs, the power of Linux, and the versatility of Python. I'm a firm believer in continuous learning and always excited to explore new technologies and contribute to innovative projects.
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=SahilApte&label=Profile%20Views&color=0e75b6&style=flat-square" alt="SahilApte" />
+  <img src="https://img.shields.io/badge/Experience-2.4%2B%20Years-blue?style=flat-square" alt="Experience" />
+  <img src="https://img.shields.io/badge/Role-Software%20QA%20Engineer%20%7C%20SDET-success?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Specialization-UI%2FAPI%20Automation%20%26%20AI%20Testing-blueviolet?style=flat-square" alt="Specialization" />
 </p>
 
-- 🏢 Currently working as a **Software QA Engineer** at <a href="https://www.realpage.com/" target="_blank"><img src="https://s.realpage.com/dist/site/static/logos/rp-logo-2022.svg" alt="Realpage" width="100" height="20" align="center"/></a>
-- 🔭 Fascinated by **Operating Systems, Custom ROMs**.
-- 💻 Proficient in **Python** and **Linux**.
-- 🌐 Check out my personal portfolio website: [https://sahil-apte.vercel.app/](https://sahil-apte.vercel.app/)
-- 📫 Feel free to reach out via email at **sahilapte.work@gmail.com**.
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="wave" width="36" height="36"/>
+  Hi, I'm Sahil Apte
+</h1>
 
-<h3 align="left">Work Experience</h3>
+<h3 align="center">
+  Software QA Engineer | SDET | UI & API Test Automation Specialist | AI-Augmented QA Pioneer
+</h3>
 
-**Software QA Engineer** at **Realpage**
-<br>
-* 05/2024 – Present | Hyderabad
-* Perform new automation scenarios
-* Maintain Regression and sanity suites
-* Skilled with production testing and post-production monitoring
-
-<br>
-
-**Intern** at **Realpage**
-<br>
-* 07/2023 – 05/2024 | Hyderabad
-* Developed Leave Application utilizing React, Raul, ASP.NET, and SQL Server
-* Leveraging Smartsheets to streamline agent evaluations and performance ratings
-* Providing stakeholders with enhanced visibility through the generation of reports and dashboards
-
-<h3 align="left">Tools and IDEs </h3>
-<p align="left">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA.svg" alt="intellij-idea" width="40" height="40"/> </a>
-<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://www.eclipse.org/org/artwork/images/eclipse-ide-logo.png" alt="eclipse" width="40" height="40"/> </a>
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="maven" width="40" height="40"/> </a>
-<a href="https://testng.org/" target="_blank" rel="noreferrer"> <img src="https://media2.dev.to/dynamic/image/width=100,height=42,fit=contain,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fugn0nrlfcmaoyis038um.png" alt="testng" width="40" height="17"/> </a>
-<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="tailwindcss" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+<p align="center">
+  📍 <strong>Hyderabad, India</strong> &nbsp;|&nbsp; 
+  💼 <strong>Software QA Engineer at RealPage</strong> &nbsp;|&nbsp; 
+  ✉️ <a href="mailto:sahilapte.work@gmail.com">sahilapte.work@gmail.com</a> &nbsp;|&nbsp; 
+  🔗 <a href="https://linkedin.com/in/sahil-apte-a9161a205" target="_blank">LinkedIn</a> &nbsp;|&nbsp; 
+  🌐 <a href="https://sahil-apte.vercel.app/" target="_blank">Portfolio</a>
 </p>
 
-<h3 align="left">Languages </h3>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+---
+
+### 🎯 Recruiter Quick Snapshot
+
+```yaml
+Current Role: Software QA Engineer @ RealPage (05/2024 – Present)
+Total Experience: 2.4+ Years (UI & API Test Automation across distributed enterprise web apps)
+Core Tech Stack: Java, Selenium WebDriver, Playwright, TestNG, Postman, REST API, Python, SQL
+AI-Driven Testing: Claude AI, Model Context Protocol (MCP), Self-Healing Locators, Autonomous Agents
+Key Highlights:
+  - Boosted automation suite pass rate by +55% through root cause analysis & script debugging
+  - Integrated CI/CD quality gates with GitHub Actions & Azure DevOps to block unstable code merges
+  - Built autonomous multi-agent QA platform for the entire STLC (Grooming → Java POM → Self-Healing)
+```
+
+---
+
+### 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="55%">
+      <h3>🤖 <a href="https://github.com/SahilApte/qa-lifecycle-agents">QA Lifecycle Agents Platform</a></h3>
+      <p>An enterprise-grade, autonomous <strong>10-Agent AI Testing Framework</strong> orchestrating the full Software Testing Lifecycle (STLC):</p>
+      <ul>
+        <li>🔍 <strong>Requirements Grooming & Ambiguity Scoring (out of 10)</strong></li>
+        <li>📝 <strong>Automated E2E Test Case Generation & Azure DevOps/TFS Sync</strong></li>
+        <li>☕ <strong>Production-Ready Java Selenium (POM + TestNG) Script Generation</strong></li>
+        <li>🩹 <strong>Autonomous Runtime Self-Healing Locators (Claude AI + MCP)</strong></li>
+        <li>📊 <strong>AI Test Log Failure Categorization & PME Bug Intelligence</strong></li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Selenium-Java-orange?style=flat-square&logo=selenium" />
+        <img src="https://img.shields.io/badge/Playwright-Automation-green?style=flat-square&logo=playwright" />
+        <img src="https://img.shields.io/badge/Claude%20AI-MCP-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Azure%20DevOps-TFS-blue?style=flat-square&logo=azuredevops" />
+      </p>
+    </td>
+    <td width="45%">
+      <h3>🔬 Other Technical Projects</h3>
+      <ul>
+        <li>
+          <strong>Auto Surgery — Surgical Tools Detection</strong><br/>
+          Deep Learning computer vision model detecting surgical tools & surgical steps from live video feeds.
+        </li>
+        <li>
+          <strong>Gemstone Price Prediction</strong><br/>
+          Machine Learning regression pipeline with Python, Scikit-learn, and Flask backend.
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💼 Professional Experience
+
+#### 🔹 **Software QA Engineer** — **RealPage**
+*`Hyderabad, India | 05/2024 – Present`*
+- Design, develop, and maintain scalable automated test frameworks, test scripts, and test suites for distributed web and API applications using **Java, Selenium WebDriver, and Playwright**.
+- Architect **CI/CD pipeline integrations via GitHub Actions** to trigger automated regression suites, enforce quality gates, and block regressions before production merges.
+- Conduct in-depth functional and regression cycles, proactively triaging and debugging flaky scripts to **improve overall test suite pass percentages by 55%**.
+- Lead defect management and first-level **Root Cause Analysis (RCA)** with standardized reproduction steps, collaborating with Product Managers and Developers.
+- Continuous innovation: Architected proof-of-concept AI workflows utilizing **Claude AI and Model Context Protocol (MCP)** to accelerate defect triage, test case generation, and self-healing automation.
+
+#### 🔹 **QA / Software Intern** — **RealPage**
+*`Hyderabad, India | 07/2023 – 05/2024`*
+- Engineered automated reporting dashboards providing cross-functional stakeholders with real-time visibility into test execution benchmarks and release quality.
+- Streamlined agent evaluations and performance tracking workflows using automated Smartsheet integration.
+
+---
+
+### 🧰 Technical Skills & Tools
+
+<table>
+  <tr>
+    <td width="30%"><strong>Test Automation & QA</strong></td>
+    <td>Selenium WebDriver, Playwright, TestNG, Postman, REST API Testing, UI Automation, Functional & Regression Testing, Smoke/Sanity Suites</td>
+  </tr>
+  <tr>
+    <td><strong>AI-Augmented Testing</strong></td>
+    <td>Claude AI, Model Context Protocol (MCP), Autonomous Test Generation, Self-Healing Locator Engines</td>
+  </tr>
+  <tr>
+    <td><strong>Programming & Scripting</strong></td>
+    <td>Java, Python, SQL, JavaScript, HTML5, CSS3, Bash</td>
+  </tr>
+  <tr>
+    <td><strong>DevOps, CI/CD & Tools</strong></td>
+    <td>GitHub Actions, Azure DevOps (TFS), Git, Maven, Jira, IntelliJ IDEA, VS Code, Eclipse, JMeter</td>
+  </tr>
+  <tr>
+    <td><strong>Methodologies & Patterns</strong></td>
+    <td>Page Object Model (POM), Hybrid Frameworks, Shift-Left Testing, Root Cause Analysis (RCA), Agile / Scrum</td>
+  </tr>
+</table>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilApte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sahil's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilApte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
-<h3 align="left">Operating Systems </h3>
-<p align="left">
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/windows-116906.jpg" alt="windows" width="40" height="40"/> </a>
-<a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/> </a>
-</p>
+---
 
-<h3 align="left">Other Interests</h3>
-<p align="left">
-Passionate about **Custom ROMs**.
-</p>
+### 🌐 Connect & Collaborate
 
-<h3 align="left">Ways to connect with me <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Handshake.svg" width="30px"></h3>
 <p align="left">
-<a href="https://linkedin.com/in/sahil-apte-a9161a205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-apte-a9161a205" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15546035" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15546035" height="30" width="40" /></a>
-<a href="https://instagram.com/sahilapte" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilapte" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/corechef" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="corechef" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sahilapte" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahilapte" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sahilapte14" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sahilapte14" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sahil-apte-a9161a205" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> &nbsp;
+  <a href="mailto:sahilapte.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a> &nbsp;
+  <a href="https://sahil-apte.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a> &nbsp;
+  <a href="https://github.com/SahilApte" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a> &nbsp;
+  <a href="https://stackoverflow.com/users/15546035" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
+  </a> &nbsp;
+  <a href="https://www.hackerrank.com/sahilapte" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
 </p>
-<br>
